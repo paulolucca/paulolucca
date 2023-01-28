@@ -1,9 +1,6 @@
 ## Óla, eu sou o Paulo Cesar
-
-
-- 🔭 Eu trabalho como Especialista Técnico de Manutenção.
-- 🌱 Estudante de  JavaScrypt, React, TypeScrypt entre outras.
-
+- 🔭 Eu trabalho n aréa de manutenção automotiva.
+- 🌱 Estudante de desenvolvimento WEB usando as linguagem html, javasripts, typecripts, usando as plataformas node.js,  react  e outras.
 
 <div align="center">
   <a href="https://github.com/paulolucca">
