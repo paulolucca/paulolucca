@@ -1,5 +1,5 @@
 ## Óla, eu sou o Paulo Cesar
-- 🔭 Eu trabalho n aréa de manutenção automotiva.
+- 🔭 Desenvolvedor de Software Junior.
 - 🌱 Estudante de desenvolvimento WEB usando as linguagem html, javasripts, typecripts, usando as plataformas node.js,  react  e outras.
 
 <div align="center">
